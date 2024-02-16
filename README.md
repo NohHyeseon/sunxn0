@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=#E3A6AE"/> <img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=Springboot&logoColor=CC6699"/> <img src="https://img.shields.io/badge/JAVA-yellow?style=flat-square&logo=IntelliJidea&logoColor=000000"/> <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MariaDB&logoColor=000000"/> <img src="https://img.shields.io/badge/Gradle-gray?style=flat-square&logo=gradle&logoColor=#24A47F"/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sunxn0)](https://solved.ac/yoon828990)<br/>
+
 
 <!--
 **sunxn0/sunxn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

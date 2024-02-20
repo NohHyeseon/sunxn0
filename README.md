@@ -1,7 +1,7 @@
 ###
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=7BD1D2&height=300&section=header&text=Heasun%20GitHub&fontSize=90)
+ ![header](https://capsule-render.vercel.app/api?type=Venom&color=9999CC&height=130&section=header&text=NoJelly%20GitHub&fontColor=ffccff&fontSize=40&animation=fadeIn&fontAlignY=55)
 
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=#E3A6AE"/> <img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=Springboot&logoColor=CC6699"/> <img src="https://img.shields.io/badge/JAVA-yellow?style=flat-square&logo=IntelliJidea&logoColor=000000"/> <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MariaDB&logoColor=000000"/> <img src="https://img.shields.io/badge/Gradle-gray?style=flat-square&logo=gradle&logoColor=#24A47F"/>
 <br>

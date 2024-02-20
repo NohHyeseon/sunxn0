@@ -4,8 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=7BD1D2&height=300&section=header&text=Heasun%20GitHub&fontSize=90)
 
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=#E3A6AE"/> <img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=Springboot&logoColor=CC6699"/> <img src="https://img.shields.io/badge/JAVA-yellow?style=flat-square&logo=IntelliJidea&logoColor=000000"/> <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MariaDB&logoColor=000000"/> <img src="https://img.shields.io/badge/Gradle-gray?style=flat-square&logo=gradle&logoColor=#24A47F"/>
-
-
+<br>
+<a href="https://www.notion.so/JPA-02c642dc999e4b11842cf64302060f98?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
+</div>
 
 <!--
 **sunxn0/sunxn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

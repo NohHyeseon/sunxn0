@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=#E3A6AE"/> <img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=Springboot&logoColor=CC6699"/> <img src="https://img.shields.io/badge/JAVA-yellow?style=flat-square&logo=IntelliJidea&logoColor=000000"/> <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MariaDB&logoColor=000000"/> <img src="https://img.shields.io/badge/Gradle-gray?style=flat-square&logo=gradle&logoColor=#24A47F"/>
 <br>
-<a href="https://www.notion.so/JPA-02c642dc999e4b11842cf64302060f98?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
+<a href="https://thundering-macrame-6c0.notion.site/298c8a9f2c984cb39cbb1837f5bd6ca8?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
 </div>
 
 
